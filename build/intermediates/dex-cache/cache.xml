@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\FixMyCar\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a57f7efe16a98b26ca59abcd26e1ab884f9385a1">
+        <dex dex="D:\workspace\FixMyCar\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android-af43fcfc22e7e0003255f829e1ec30bb73991ec7.jar" />
+    </item>
+    <item
+        jar="D:\workspace\FixMyCar\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\workspace\FixMyCar\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-dffb1d652836c49bfe322d87cdf8a5080fbe03fa.jar" />
+    </item>
+    <item
+        jar="D:\workspace\FixMyCar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\workspace\FixMyCar\app\build\intermediates\pre-dexed\debug\classes-ca943be122203deff6362fbf4efc2c237194bc26.jar" />
+    </item>
+    <item
+        jar="D:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\workspace\FixMyCar\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6f4d2c1008701c3c5c6bee5083211f0ffb9ffb86.jar" />
+    </item>
+    <item
+        jar="D:\workspace\FixMyCar\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\workspace\FixMyCar\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8197120a0ce0b3b5acb809534bc8860b8e708cda.jar" />
+    </item>
+    <item
+        jar="D:\workspace\FixMyCar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\workspace\FixMyCar\app\build\intermediates\pre-dexed\debug\classes-665390914f3ed69cdb06cea069deb16e31d92843.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">修车直达</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">刷新数据</string>
+
+    <string name="title_activity_submit_car_info">提交车辆信息</string>
+    <string name="title_activity_get_shop_list">获取修理商列表</string>
+    <string name="title_activity_comment">评价修理商</string>
+    <string name="search">搜索</string>
+    <string name="fix_my_car">\@修车</string>
+
+    <string name="welcome"> 请提供车辆信息，便于报价</string>
+    <string name="car_mode">选择车型</string>
+    <string-array name="car_mode_arrays">
+        <item>大众高尔夫</item>
+        <item>丰田凯美瑞</item>
+        <item>本田雅阁</item>
+        <item>大众途观</item>
+        <item>大众帕萨特</item>
+
+    </string-array>
+    <string name="car_image">故障图片</string>
+    <string name="take_photo">直接拍照</string>
+    <string name="choose_photo">选择已有照片</string>
+
+    <string name="current_location">您现在的位置在：</string>
+
+    <string name="bid_price">报价：</string>
+    <string name="bid_comment">故障分析：</string>
+    <string name="shop_distance">距您约</string>
+
+    <string name="car_desc">故障描述</string>
+    <string name="car_damage_hint">  例如刮蹭，不能点火等</string>
+    <string name="need_trailer">是否需要拖车</string>
+    <string name="submit">寻求报价</string>
+    <string name="info_submit_ok">您的信息已经提交成功，请稍候</string>
+    <string name="please_wait_for_submit">信息正在提交，请等待</string>
+
+    <string name="please_wait_for_list">请等待修理厂报价</string>
+    <string name="shop_bid_list">修理厂报价如下</string>
+    <string name="title_activity_shop_detail">修理厂详细信息</string>
+
+    <string name="shop_detail_addr">店铺地址：</string>
+    <string name="shop_detail_adv">技术特长：</string>
+    <string name="shop_detail_adv_value">汽车保养，汽车维修，汽车装饰等</string>
+    <string name="shop_detail_workinghour">营业时间：</string>
+    <string name="shop_detail_workinghour_value">早8点30到晚17:30：</string>
+
+    <string name="shop_detail_carmode">主修车型：</string>
+    <string name="shop_detail_carmode_value">丰田，本田，一汽大众，上海大众</string>
+
+    <string name="shop_detail_phone">联系电话：</string>
+    <string name="shop_detail_map">地图位置：</string>
+
+    <color name="action_bar_background">#339966</color>
+
+    <string name="title_activity_order">确认订单</string>
+    <string name="order_car_model">您的爱车为: </string>
+    <string name="order_car_desc">您的爱车受损描述为: </string>
+    <string name="order_car_image">您的受损图片为: </string>
+    <string name="order_shop_name">修车店为: </string>
+    <string name="order_repair_desc">诊断为: 右前刮蹭</string>
+    <string name="order_repair_price">报价为: 1500元</string>
+    <string name="order_repair_items">修理项目: 包括钣金，喷漆，洗车</string>
+
+    <string name="order_confirm">确认支付</string>
+</resources>
